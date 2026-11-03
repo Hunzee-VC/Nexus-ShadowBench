@@ -8,6 +8,16 @@ recorded here.
 
 ## Unreleased
 
+### pyasn1 security update
+
+- Updated pyasn1 from 0.6.4 to 0.6.5 in `requirements.lock` for
+  CVE-2026-119194, CVE-2026-119195, CVE-2026-119196 and CVE-2026-119197,
+  which made CI's `pip-audit` step fail on `main`. The pins and hashes are
+  the ones in Nexus-ShadowScan#335; both hashes were checked against the PyPI
+  JSON API (wheel `4017b0fc…`, sdist `6b11616a…`, neither yanked).
+  `migration/requirements.source.lock` stays as the original record. No
+  benchmark tool, corpus or historical evidence changes.
+
 ### Required historical result signatures
 
 - Require genuine Sigstore bundles for all three preserved result manifests
