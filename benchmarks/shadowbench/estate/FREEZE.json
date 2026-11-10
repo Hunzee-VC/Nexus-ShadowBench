@@ -54,7 +54,7 @@
   "artifacts/code/repo-site/src/build.js": "d8fcec01d36421369271bd4557ba5c558fa326aa237f639795a01152a7d54f05",
   "artifacts/code/repo-site/styles/site.css": "ccd0ac1aa58bd1226c154468f20b08273ba12573d3cc1b16e385a8bf6b04b7a3",
   "artifacts/code/repo-support-bot-ts/README.md": "581227ee7b19000a75b2796804ec3499fbb53501b2760d787f5cc308a016e2bc",
-  "artifacts/code/repo-support-bot-ts/package.json": "fb4bb3f4b7f259f4da7eea15534a5323ea7f2929afbf97ae052fa56bc483121e",
+  "artifacts/code/repo-support-bot-ts/package.json": "d19c0e40b98e399099206e2dfd6edfe9bd60430e2651c1004c269a449240c748",
   "artifacts/code/repo-support-bot-ts/public/.well-known/agent.json": "392e7500a8469f5a280139d83bc930db3f3c10aacb98aea519570731fc39f29a",
   "artifacts/code/repo-support-bot-ts/src/agent.ts": "8935a54f02f04e131b50c9cad03396303027b41e006714e4e064f5272abdee6b",
   "artifacts/code/repo-support-bot-ts/src/index.ts": "28b0a3da7d34e9d58f453be6871513e46f3bf2a7268f2a5a18e0c270fd6d2f1c",
